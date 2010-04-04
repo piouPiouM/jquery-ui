@@ -18,6 +18,7 @@ Scott González
 Marc Grabanski (m@marcgrabanski.com)
 Klaus Hartl (stilbuero.de)
 Scott Jehl
+Mehdi Kabab (pioupioum.fr)
 Cody Lindley
 Eduardo Lundgren (eduardolundgren@gmail.com)
 Todd Parker
